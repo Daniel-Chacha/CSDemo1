@@ -1,0 +1,8 @@
+Writing into my text file in c++ 
+My name is Daniel
+Writing into my text file in c++ 
+I am a Computer Science student.
+Writing into my text file in c++ 
+I am 20 years old.
+Writing into my text file in c++ 
+.
